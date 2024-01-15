@@ -12,6 +12,7 @@
 	<modules>
 		<module>diploma-generator</module>
 		<module>student-repository</module>
+		<module>diploma-webapp</module>
 	</modules>
 
 	<dependencyManagement>
